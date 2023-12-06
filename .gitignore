@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+bin/
+.idea
+logo
+.cargo-ok
